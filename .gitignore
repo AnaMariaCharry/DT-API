@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+.vscode/
+.idea/
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+# Investigación local: pendiente de autorización para publicación.
+/data/
+/notebooks/
+/outputs/
+/Plan Modelos SLA.txt
+.codex/
+.agents/
+.aws/
+*.pem
+*.key
